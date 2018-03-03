@@ -1,5 +1,5 @@
 # DaVinci
-Experimental design tool based on visual code manipulation rather than pixel drawing. It's a Sketch like WYSIWYG editor and it's the vision for next generation of UX/UI tools. It ships code instead of pictures and forces UX/UI designers to think in systems rather than pictures. This project is just an experiment and is not active or ready to be used for production.
+Experimental design tool based on visual code manipulation rather than pixel drawing. It's a Sketch like WYSIWYG editor and it's the vision for next generation of UX/UI tools. It ships code instead of pictures and forces UX/UI designers to think in systems rather than pictures. This project is just an experiment and is not ready to be used for production.
 
 # Video demo 
 <a href="https://www.youtube.com/watch?v=0XLawcV1x5U" target="_blank"><img src="http://img.youtube.com/vi/0XLawcV1x5U/0.jpg" 
